@@ -1,7 +1,18 @@
 # gitmoji
 This short git codes help you to see what a commit is about.
 
-## Coding
+## Example
+```
+:bug: fix namespace issues in controller
+```
+or
+```
+:lipstick: relocate elements on signup page
+```
+
+## Codes
+
+### Coding
 :bug: = fixing bugs  
 :sparkles: = new features (be careful)  
 :alembic: = experimental stage (be careful)  
@@ -10,11 +21,11 @@ This short git codes help you to see what a commit is about.
 :construction: = refactoring  
 :pencil: = documentation  
 
-## Styling 
+### Styling 
 :pencil2: = fixing typos  
 :lipstick: = improving UI and style  
 
-## Deployment
+### Deployment
 :rocket: = deploying stuff  
 
 
