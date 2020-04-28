@@ -13,20 +13,20 @@ or
 ## Codes
 
 ### Coding
-:bug: = fixing bugs  
-:sparkles: = new features (be careful)  
-:alembic: = experimental stage (be careful)  
-:wrench: = changing configuration files  
-:card_file_box: = database changes / migrations / model changes  
-:construction: = refactoring  
-:pencil: = documentation  
+:bug:, `:bug` = fixing bugs   
+:sparkles:, `:sparkles` = new features (be careful)  
+:alembic:, `:alembic` = experimental stage (be careful)  
+:wrench:, `:wrench` = changing configuration files  
+:card_file_box:, `:card_file_box` = database changes / migrations / model changes  
+:construction:, `:construction` = refactoring  
+:pencil:, `:pencil` = documentation  
 
 ### Styling 
-:pencil2: = fixing typos  
-:lipstick: = improving UI and style  
+:pencil2:, `:pencil2` = fixing typos  
+:lipstick:, `:lipstick` = improving UI and style  
 
 ### Deployment
-:rocket: = deploying stuff  
+:rocket:, `:rocket` = deploying stuff  
 
 
 
